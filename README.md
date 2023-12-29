@@ -1,4 +1,4 @@
-# mlflow-mysql-local
+# mlflow with mysql backend and local artifact
 
 Note: Mysql must be installed on system
 1. Open terminal
